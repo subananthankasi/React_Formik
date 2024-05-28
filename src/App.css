@@ -1,0 +1,77 @@
+.error {
+color: red;
+}
+
+.car{
+    background: var(--surface-card);
+    padding: 16px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
+.suba1:hover{
+    background-color: rgb(90, 90, 233);
+    color: white;
+}
+.suba2:hover{
+    background-color: red;
+    color: white;
+}
+.selectproductsno:hover{
+    background-color: rgb(90, 90, 233);
+    color: white;
+}
+.selectproductsyes:hover{
+    background-color: red;
+    color: white;
+}
+#create .card {
+    border: none !important;
+  }
+  .form-label {
+    font-weight: bold;
+    text-transform: uppercase;
+    color: rgb(72, 71, 71);
+  }
+  #create .btn {
+    letter-spacing: 2px;
+    color: white;
+    font-weight: 500;
+  }
+  #create .btn:hover {
+    color: white;
+    letter-spacing: 3px;
+  }
+  
+  #create .relative {
+    position: relative;
+  }
+  #create i.absolute {
+    position: absolute;
+    right: 30px;
+    top: 10px;
+  }
+  #update1 .btn {
+    letter-spacing: 2px;
+    color: white;
+    font-weight: 500;
+  }
+  
+  #update1 .btn:hover {
+    color: white;
+    letter-spacing: 3px;
+  }
+  
+  #check {
+    width: 50px;
+  }
+  .search {
+    width: 100px;
+  }
+
+  
+  #create .error{
+    color:#DC3545;
+    font-size: 14px;
+    margin-top: 4px;
+  }
+  
